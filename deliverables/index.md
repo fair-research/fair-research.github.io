@@ -1,12 +1,14 @@
 ---
 layout: default
-title: FAIR Research Data - NIH DCPPC Deliverables
+title: FAIR Research Data - NIH Deliverables
 ---
 
-# NIH DCPPC Deliverables
+# NIH Deliverables
 
 Work supporting the [NIH Data Commons Pilot Phase Consortium](https://www.nihdatacommons.us).
 
+*  [Ingesting metadata from NIH Common Fund Data Coordinating Centers](cfde-metadata-ingest.html) :
+   Overview and current status of our work ingesting data manifests from NIH Common Fund research initiatives.
 *  [Scalable, Cost-Controlled Analysis for Data Enrichment](scalable-analysis.html) :
    Example highlighting Re-Use and interoperability of data and computational tools using
    variant files from the DCPPC Cross-Stack Compute Demo and an annotation tool is from
