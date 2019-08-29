@@ -33,5 +33,5 @@ then you should want to organize your work so that its products are
 
 ---
 
-These tools and others support our [deliverables for the NIH Data Commons](deliverables/).
+These tools and others support our [deliverables for the NIH](deliverables/).
 
