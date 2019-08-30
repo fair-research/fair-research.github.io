@@ -7,6 +7,8 @@ title: FAIR Research Data - NIH Deliverables
 
 Work supporting the NIH [Data Commons Pilot Phase Consortium](https://www.nihdatacommons.us) and Common Fund Data Ecosystem (CFDE).
 
+*  [Establishing CFDE Metadata Schemas and Serializations](cfde-metadata-format.html) :
+   Overview and current status of consensus regarding metadata from NIH Common Fund research initiatives.
 *  [Ingesting metadata from NIH Common Fund Data Coordinating Centers](cfde-metadata-ingest.html) :
    Overview and current status of our work ingesting data manifests from NIH Common Fund research initiatives.
 *  [Scalable, Cost-Controlled Analysis for Data Enrichment](scalable-analysis.html) :
