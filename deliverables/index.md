@@ -7,11 +7,13 @@ title: FAIR Research Data - NIH Deliverables
 
 Work supporting the NIH [Data Commons Pilot Phase Consortium](https://www.nihdatacommons.us) and Common Fund Data Ecosystem (CFDE).
 
-*  [Establishing CFDE Metadata Schemas and Serializations](cfde-metadata-format.html) :
+*  [Automated Generation of GTEx Metadata](cfde-gtex-creation.html): Summary of producing a GTEx data asset manifest in a format reusable
+within the NIH Common Fund Data Ecosystem.
+*  [Establishing CFDE Metadata Schemas and Serializations](cfde-metadata-format.html):
    Overview and current status of consensus regarding metadata from NIH Common Fund research initiatives.
-*  [Ingesting metadata from NIH Common Fund Data Coordinating Centers](cfde-metadata-ingest.html) :
+*  [Ingesting metadata from NIH Common Fund Data Coordinating Centers](cfde-metadata-ingest.html):
    Overview and current status of our work ingesting data manifests from NIH Common Fund research initiatives.
-*  [Scalable, Cost-Controlled Analysis for Data Enrichment](scalable-analysis.html) :
+*  [Scalable, Cost-Controlled Analysis for Data Enrichment](scalable-analysis.html):
    Example highlighting Re-Use and interoperability of data and computational tools using
    variant files from the DCPPC Cross-Stack Compute Demo and an annotation tool is from
    the TOPMed project. The annotations created using cost-aware cloud provisioning and the
